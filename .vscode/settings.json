@@ -1,0 +1,7 @@
+{
+  "editor.fontLigatures": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true
+}
